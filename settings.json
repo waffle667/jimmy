@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UltaVerse.aternos.me",
+    "ip": "UltaVerse.aternos.me:14530",
     "port":14530,
     "version": "1.21.11",
     "try-creative": false
