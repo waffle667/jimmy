@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "UltaVerse.aternos.me",
-    "port": 14530,
+    "port":,
     "version": "1.21.11",
     "try-creative": false
   },
